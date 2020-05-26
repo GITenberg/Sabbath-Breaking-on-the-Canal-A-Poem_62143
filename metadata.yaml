@@ -1,5 +1,8 @@
 _repo: Sabbath-Breaking-on-the-Canal-A-Poem_62143
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 62143-h/images/cover.jpg
 creator:
   author:
     agent_name: Clutton, John
@@ -7,6 +10,8 @@ creator:
     gutenberg_agent_id: '51790'
     url: http://www.gutenberg.org/2009/agents/51790
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/62143#Sabbath-Breaking-on-the-Canal-A-Poem
 gutenberg_issued: '2020-05-16'
 gutenberg_type: Text
 identifiers:
